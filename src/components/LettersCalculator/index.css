@@ -1,0 +1,46 @@
+.bg-container {
+  background: linear-gradient(to right, #1d976c, #93f9b9);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /* padding-left: 20px;
+  padding-right: 20px; */
+  height: 100vh;
+}
+
+.image {
+  height: 500px;
+  width: auto;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+input {
+  background: transparent;
+  color: #e4e7eb;
+  border: 1px solid #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  width: 75%;
+  outline: none;
+}
+
+.para-box {
+  margin-top: 30px;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  background-color: #ffffff;
+  color: #1d976c;
+  border-radius: 5px;
+  text-align: center;
+  width: 50%;
+  padding: 10px;
+  font-size: 20px;
+  outline: none;
+}
